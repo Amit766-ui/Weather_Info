@@ -6,7 +6,7 @@ const app = express();
 const port = 4000;
 
 // API Key for OpenWeather
-const API_KEY = "87b98d147407fedf1cbce8c4daba9fe7";
+const API_KEY = "8b98d147407fedf1cbce8c4daba9fe";
 
 // Middleware
 app.use(bodyParser.urlencoded({ extended: true }));
